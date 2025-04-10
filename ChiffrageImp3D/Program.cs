@@ -9,10 +9,6 @@ static class Program
     /// </summary>
     [STAThread]
 
-    
-    //[DllImport("kernel32.dll")] //dbg
-    //private static extern bool AllocConsole(); //dbg
-
     static void Main()
     {
         // To customize application configuration such as set high DPI settings or default font,
