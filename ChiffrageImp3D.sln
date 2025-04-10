@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiffrageImp3D", "ChiffrageImp3D\ChiffrageImp3D.csproj", "{728912D2-FB89-4D9E-8B75-F040E0C82203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728912D2-FB89-4D9E-8B75-F040E0C82203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728912D2-FB89-4D9E-8B75-F040E0C82203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728912D2-FB89-4D9E-8B75-F040E0C82203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728912D2-FB89-4D9E-8B75-F040E0C82203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

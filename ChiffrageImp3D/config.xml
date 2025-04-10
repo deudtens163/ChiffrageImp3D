@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<coeffPertes>0,2</coeffPertes>
+	<CoutkWH>0,3</CoutkWH>
+	<tempsMO>0,25</tempsMO>
+	<tauxHoraireMO>32</tauxHoraireMO>
+	<consoMachine>250</consoMachine>
+	<ammortissementMachineHoraire>0,3</ammortissementMachineHoraire>
+	<tauxCotisation>30</tauxCotisation>
+	<tauxMarge>120</tauxMarge>
+	<prixMatiere>30</prixMatiere>
+</configuration>
